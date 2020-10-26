@@ -1,0 +1,20 @@
+@font-face {
+font-family: 'New Walt Disney UI Regular';
+font-style: normal;
+font-weight: normal;
+src: local('New Walt Disney UI Regular'), url('New Walt Disney UI.woff') format('woff');
+}
+
+h1 {
+	font-family: 'kingthings-willow.regular';
+	font-weight: 200;
+	font-size: 80px;
+	color: #00ff99;
+}
+
+@font-face {
+font-family: 'kingthings-willow.regular';
+font-style: normal;
+font-weight: normal;
+src: local('kingthings-willow.regular'), url('kingthings-willow.regular.woff') format('woff');
+}
